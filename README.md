@@ -6,6 +6,7 @@ Juizes:
 	https://icpcarchive.ecs.baylor.edu/
 
 Lista 1:
+
 	UVA 10189 - Minesweeper
 	UVA 11459 - Snakes and Ladders
 	UVA 11559 - Event Planning
@@ -17,11 +18,12 @@ Lista 1:
 	ICPC 4481 - Jingle Composing
 
 Lista 2:
+
 	UVA 10038 - Jolly Jumpers
 	UVA 11496 - Musical Loop
 	UVA 514 - Rails
 	UVA 10901 - Ferry Loading III
-	
+
 	ICPC 2538 - Tanning Salon
 	ICPC 6828 - Help cupid
 	ICPC 4555 - Running Median
